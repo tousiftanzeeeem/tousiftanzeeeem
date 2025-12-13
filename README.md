@@ -5,7 +5,7 @@ I am Tanzim Tousif, 3rd year CS Undergraduate at [Bangladesh University of Engin
 
 ## Profile Overview
 
-![](https://raw.githubusercontent.com/tousiftanzeeeem/tousiftanzeeeem/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
+![](https://github-readme-stats.vercel.app/api?username=tousiftanzeeeem&show_icons=true&theme=dark&count_private=true)
 
 ## Key Stats
 
