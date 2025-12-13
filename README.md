@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**tousiftanzeeeem/tousiftanzeeeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Tanzim Tousif, 3rd year CS Undergraduate at [Bangladesh University of Engineering and Technology].
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profile Overview
+
+![](https://raw.githubusercontent.com/tousiftanzeeeem/tousiftanzeeeem/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
+
+## Key Stats
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg" alt="Repos per Language" height="170" />
+  
+  <img src="https://raw.githubusercontent.com/tousiftanzeeeem/tousiftanzeeeem/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" alt="Most Commit Language" height="170" />
+</p>
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/tousiftanzeeeem/tousiftanzeeeem/main/profile-summary-card-output/solarized_dark/3-stats.svg" alt="Stats" />
+</p>
+
+---
+
+### Get in Touch! 💬
+
+Want to collaborate? Kindly reach me at:
+
+* 📧 **Email:** [tousiftanzim123@gmail.com](mailto:your-email@gmail.com)
