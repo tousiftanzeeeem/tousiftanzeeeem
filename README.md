@@ -16,7 +16,7 @@ I am Tanzim Tousif, 3rd year CS Undergraduate at [Bangladesh University of Engin
 </p>
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/tousiftanzeeeem/tousiftanzeeeem/main/profile-summary-card-output/solarized_dark/3-stats.svg" alt="Stats" />
+  <img src="https://github.com/tousiftanzeeeem/tousiftanzeeeem/blob/main/profile-summary-card-output/solarized_dark/4-productive-time.svg" alt="Stats" />
 </p>
 
 ---
