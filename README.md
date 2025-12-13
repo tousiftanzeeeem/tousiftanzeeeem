@@ -10,13 +10,13 @@ I am Tanzim Tousif, 3rd year CS Undergraduate at [Bangladesh University of Engin
 ## Key Stats
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/tousiftanzeeeem/tousiftanzeeeem/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg" alt="Repos per Language" height="170" />
+  <img src="https://raw.githubusercontent.com/tousiftanzeeeem/tousiftanzeeeem/main/profile-summary-card-output/react/1-repos-per-language.svg" alt="Repos per Language" height="170" />
   
-  <img src="https://raw.githubusercontent.com/tousiftanzeeeem/tousiftanzeeeem/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg" alt="Most Commit Language" height="170" />
+  <img src="https://raw.githubusercontent.com/tousiftanzeeeem/tousiftanzeeeem/main/profile-summary-card-output/react/2-most-commit-language.svg" alt="Most Commit Language" height="170" />
 </p>
 
 <p align="left">
-  <img src="https://github.com/tousiftanzeeeem/tousiftanzeeeem/blob/main/profile-summary-card-output/solarized_dark/4-productive-time.svg" alt="Stats" />
+  <img src="https://github.com/tousiftanzeeeem/tousiftanzeeeem/blob/main/profile-summary-card-output/react/4-productive-time.svg" alt="Stats" />
 </p>
 
 ---
