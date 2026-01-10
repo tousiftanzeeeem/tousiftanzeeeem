@@ -7,6 +7,9 @@ I am Tanzim Tousif, 3rd year CS Undergraduate at [Bangladesh University of Engin
 
 ![](https://github-readme-stats.vercel.app/api?username=tousiftanzeeeem&show_icons=true&theme=dark&count_private=true)
 
+## Profile Veiws
+![](https://komarev.com/ghpvc/?username=tousiftanzeeeem&color=green)
+
 ## Key Stats
 
 <p align="left">
